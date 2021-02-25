@@ -1,3 +1,3 @@
 packages:
   - git: "https://github.com/fivetran/dbt_zendesk_source.git"
-    revision: 97a1707
+    revision: v0.1.1
